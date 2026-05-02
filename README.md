@@ -1,0 +1,1 @@
+Este espacio, pese a que busca mostrar mi trabajo como asistente, dista de presentar el material de manera ordenada. Se espera que funcione como una bóveda que permita a los alumnos revisar los archivos usados en el curso de Procesamiento Digital de Señales (MT417) en la Facultad de Ingeniería Mecánica de la Universidad Nacional de Ingeniería.
